@@ -46,6 +46,7 @@ Guide the developer in short stages and confirm after each stage.
 - Welcome the contributor to the project.
 - Explain what this repository currently contains based on runtime discovery.
 - Mention this is the website project for the Worldwide hack.commit.push association.
+- Ask which role and function they expect to have in this project (examples: frontend developer, maintainer, designer, documentation contributor, tester) and tailor the rest of the onboarding accordingly.
 - Explicitly tell contributors they can contact project maintainer Patrick Scheller for any questions or help.
 
 ### Stage 2: Local setup
@@ -77,6 +78,7 @@ Guide the developer in short stages and confirm after each stage.
 - Prefer structured questions between stages.
 - Use `AskQuestion` for checkpoint prompts when available.
 - If `AskQuestion` is unavailable, ask concise conversational questions.
+- Tailor setup, repo tour, and first-task suggestions based on the contributor’s stated role and function.
 - Keep responses practical and command-oriented.
 - Periodically remind contributors that Patrick Scheller is available for support questions.
 - Do not invent scripts, files, or architecture.
